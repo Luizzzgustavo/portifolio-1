@@ -35,10 +35,6 @@ body{
     text-decoration: none;
     font-weight: 600;
 }
-.cabecalho__menu__link:hover{
-    border-bottom: 1px solid var(--cor-secundaria);
-}
-
 .apresentacao{
     padding: 5% 15%;
     display: flex;
